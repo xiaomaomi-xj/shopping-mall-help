@@ -34,7 +34,7 @@ npm install -g typescript
 
 ## vscode的安装
 ### vscode的下载
-- **[下载地址（因为官网很慢，我就先为你们下好了，这样你们下载的时候就快了）](https://xiaomaomi-xj.github.io/shopping-mall-help/source/dev-environment/vscode/VSCodeUserSetup-x64-1.79.2.exe)**
+- **[下载地址](https://code.visualstudio.com/Download)**
 
 ### vscode的安装
 
@@ -202,7 +202,7 @@ mysql -uroot -p
 ## redis的安装
 > **版本：**`3.0.504`
 ### redis的下载
-- **[下载地址（因为github很慢，我就先为你们下好了，这样你们下载的时候就快了）](https://xiaomaomi-xj.github.io/shopping-mall-help/source/dev-environment/redis/Redis-x64-3.0.504.msi)**
+- **[下载地址（怕你们找不到，我就先为你们下好了，这样你们下载的时候就快了）](https://xiaomaomi-xj.github.io/shopping-mall-help/source/dev-environment/redis/Redis-x64-3.0.504.msi)**
 
 ### redis安装教程
 - **1.redis安装非常简单，除了以下这个页面需要勾选一下，其他的都选择下一步即可**
