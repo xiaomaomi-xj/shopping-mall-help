@@ -1,2 +1,2 @@
-# shopping-mall-help
-此项目为静态网站项目，万能商城模板帮助文档
+### 此项目为静态页面，是`shopping-mall（商城万能模板）`项目的帮助文档
+- **访问地址：[shopping-mall-help](https://xiaomaomi-xj.github.io/shopping-mall-help)**
